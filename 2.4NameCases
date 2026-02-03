@@ -1,0 +1,7 @@
+#MKL CSC 121-2.4 NAME CASES
+name= "Madison LLorente"
+#my legal last name is spelt with the two capital L's so
+#this was a unique way to see that the title() function actually worked
+print(name.upper())
+print(name.lower())
+print(name.title())
