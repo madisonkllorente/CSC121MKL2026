@@ -12,4 +12,5 @@ guests.append("Trinity Skinner")
 guests.sort()
 
 for index, value in enumerate(guests):
+
     print (f"Please join me for a delicious 5 course meal, {value}, you're seat #{index + 1}.") 
