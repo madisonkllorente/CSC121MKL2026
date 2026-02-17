@@ -6,3 +6,4 @@ for animal in (animals):
     print (f"{animal.title()} are fun animals to find in the wild!")
 print("\n They are cool and commonly green species!")
 
+
